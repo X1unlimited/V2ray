@@ -1,2 +1,1 @@
-vless://9e13de45-0974-416e-af53-3f2a12bb59fd@[2600:3c0e::2000:abff:fe58:2de6]:8080?security=reality&encryption=none&pbk=g_318urMILYpoJXoDxu-9bMRTFrNsvvjUJJk6J8jPSQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=41ebdabb33d5882e#Reality-ipv6
-vless://9e13de45-0974-416e-af53-3f2a12bb59fd@172.235.167.133:8080?security=reality&encryption=none&pbk=g_318urMILYpoJXoDxu-9bMRTFrNsvvjUJJk6J8jPSQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=41ebdabb33d5882e#Reality-ipv4
+vless://ce55bc76-42f5-45dc-b194-3cd8bd6a58aa@instddhgk.irancpi.info:443?security=none&encryption=none&headerType=none&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA
